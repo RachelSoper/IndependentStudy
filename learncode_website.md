@@ -11,10 +11,10 @@ text = """
 ![]("http://futurefocusfoundation.us/wp-content/uploads/2016/07/coding.jpg")
 
 
-#Interactive Websites That Teach Users How To Code
+# Interactive Websites That Teach Users How To Code
 
 
-##10 Most Popular Websites
+## 10 Most Popular Websites
 *   [Codecademy](https://www.codecademy.com/)
 *   [Code Avengers](https://www.codeavengers.com/)
 *   [Code School](https://www.codeschool.com/)
@@ -25,51 +25,51 @@ text = """
 *   [SQLZOO](http://sqlzoo.net/)
 
 
-##Website Comparison
+## Website Comparison
 
-###Codecademy
+### Codecademy
 *  Courses: HTML, CSS, JavaScript, jQuery, PHP, Ruby, Python, API
 *  Fature: Code Interpreter, Progress Saver, Project, Forum			
 *  Price: Free 										
 *  Difficulty: Easy – Intermediate
 	
-###Code Avengers	
+### Code Avengers	
 *  Courses: HTML5, CSS3, JavaScript
 *  Fature: Code Interpreter, Progress Saver, Project, Note			
 *  Price: Free 										
 *  Difficulty: Easy
 	
-###Code School	
+### Code School	
 * Courses: HTML5, CSS, CSS3, jQuery, Ruby, Ruby on Rails, iOS
 * Fature: Code Interpreter, Screencast, Progress Saver, Project, Forum			
 * Price: Free, $25/month							
 * Difficulty: Intermediate - Hard
 
-###Treehouse     
+### Treehouse     
 * Courses: HTML, CSS, CSS3, JavaScript, jQuery, Ruby, Ruby on Rails, iOS, Android, UX, Database
 * Fature: Code Interpreter, Screencast, Progress Saver, Project, Forum				
 * Price: ree, $25/month, $49/month	 										
 * Difficulty: Easy – Hard	
 	
-###Udacity
+### Udacity
 * Courses: Web Development, HTML5, Python, Java, Computer Science, Algorithm, AI
 * Fature: Code Interpreter, Screencast, Progress Saver, Forum									
 * Price: Free 										
 * Difficulty: Intermediate – Extremely Hard
 	
-###CodeHS        	
+### CodeHS        	
 * Courses: Problem Solving, JavaScript, Animation, Game Programming
 * Fature: Code Interpreter, Screencast, Progress Saver					
 * Price: Free, $25/month, $75/month									
 * Difficulty: Easy – Intermediate
 	
-###Khan Academy
+### Khan Academy
 * Courses: Programming Basics, Canvas Drawing, Animation, User Interaction
 * Fature: Code Interpreter, Screencast, Progress Saver, Project, Discussion			
 * Price: Free 										
 * Difficulty: Easy – Intermediate
 	
-###SQLZOO
+### SQLZOO
 *  Courses: SQL	
 *  Fature: Code Interpreter		
 *  Price: Free 										
