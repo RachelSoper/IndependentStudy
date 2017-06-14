@@ -23,13 +23,13 @@ Computer Engineering, the BS in Bioinformatics, or the BA in Computer Systems.
 The Bachelor of Science in Computer Science and the Bachelor of Science in Computer Engineering programs are both accredited by [Extermal Link]( http://www.abet.org/wp*signup.php?new=abet.org "ABET").
 
 ##Degree Pograms##
-*[Bachelor of Science in Computer Science]( https://cns.csusb.edu/cse/bs-computer-science )
-*[Bachelor of Science in Computer Engineering]( https://cns.csusb.edu/cse/bs-computer-engineering )
-*[Bachelor of Science in Bioinformatics]( https://cns.csusb.edu/cse/bs-bioinformatics )
-*[Bachelor of Arts in Computer Systems]( https://cns.csusb.edu/cse/ba-computer-systems )
-*[Minor in Computer Science]( https://cns.csusb.edu/cse/minor-computer-science )
-*[Certificate in Computer Systems and Programming]( https://cns.csusb.edu/cse/certificate-computer-systems-and-programming )
-*[Master of Science in Computer Science]( https://cns.csusb.edu/cse/ms-computer-science )
+* [Bachelor of Science in Computer Science]( https://cns.csusb.edu/cse/bs-computer-science )
+* [Bachelor of Science in Computer Engineering]( https://cns.csusb.edu/cse/bs-computer-engineering )
+* [Bachelor of Science in Bioinformatics]( https://cns.csusb.edu/cse/bs-bioinformatics )
+* [Bachelor of Arts in Computer Systems]( https://cns.csusb.edu/cse/ba-computer-systems )
+* [Minor in Computer Science]( https://cns.csusb.edu/cse/minor-computer-science )
+* [Certificate in Computer Systems and Programming]( https://cns.csusb.edu/cse/certificate-computer-systems-and-programming )
+* [Master of Science in Computer Science]( https://cns.csusb.edu/cse/ms-computer-science )
 
 ##Department Information##
 ####Faculty and Staff####
