@@ -9,8 +9,9 @@ md = markdown.Markdown([
 
 text = """
 ![]("http://highdesertdaily.com/wp-content/uploads/2011/12/csusb4.jpg")
+
 ##__Welcome To__##
-print('nl2b')
+
 #School of Computer Science and Engineering#
 
 The School of Computer Science and Engineering educates students in the disciplines of computing theory and machinery, and teaches them to apply their knowledge in a socially responsible way. 
