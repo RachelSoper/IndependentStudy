@@ -32,6 +32,7 @@ The Bachelor of Science in Computer Science and the Bachelor of Science in Compu
 * [Master of Science in Computer Science]( https://cns.csusb.edu/cse/ms-computer-science )
 
 ##Department Information##
+
 ####Faculty and Staff####
 * [Full-Time Faculty](https://cns.csusb.edu/cse/faculty-staff)
 * [Emertius Faculty](https://cns.csusb.edu/cse/faculty-staff)
