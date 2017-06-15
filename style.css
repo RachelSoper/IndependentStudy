@@ -2,20 +2,22 @@ body {
     font-family: arial, helvetica, sans-serif;
     font-size: 14px;
     color: black;
-    background-color: #ffc;
+    background-color: skyblue;
     margin: 20px;
     padding: 0;
 }
-
-/* This is a comment, by the way */
+img{
+	height: 45%;
+	width: 100%;
+}
 
 p {
     line-height: 21px;
 }
 
 h1 {
-    color: #ffc;
-    background-color: grey;
+    color: white;
+    background-color: darkslategrey;
     font-size: 2em;
     margin: 0;
     margin-bottom: 7px;
@@ -25,12 +27,12 @@ h1 {
     letter-spacing: 0.5em;
     border-bottom-style: solid;
     border-bottom-width: 0.5em;
-    border-bottom-color: #c00;
+    border-bottom-color: lightslategray;
 }
 
 h2 {
     color: white;
-    background-color: #090;
+    background-color: slategray;
     font-size: 1.5em;
     margin: 0;
     padding: 2px;
@@ -38,17 +40,13 @@ h2 {
 }
 
 h3 {
-    color: #999;
+	color: black;
+
     font-size: 1.25em;
 }
 
-img {
-    border-style: dashed;
-    border-width: 2px;
-    border-color: #ccc;
-}
-
 a {
+	color: blue;
     text-decoration: none;
 }
 
@@ -58,10 +56,12 @@ strong {
 }
 
 li {
-    color: #900;
+
     font-style: italic;
 }
 
 table {
-    background-color: #ccc;
+	width: 100%;
+    background-color: lightcyan;
+	text-align: center; 
 }
