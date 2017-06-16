@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="github-markdown.css">
+
 import markdown 
 
 md = markdown.Markdown([
@@ -9,9 +9,7 @@ md = markdown.Markdown([
 
 text = """
 ![]("http://highdesertdaily.com/wp-content/uploads/2011/12/csusb4.jpg")
-
 ## __Welcome To__
-
 # School of Computer Science and Engineering
 
 The School of Computer Science and Engineering educates students in the disciplines of computing theory and machinery, and teaches them to apply their knowledge in a socially responsible way. 
@@ -32,7 +30,6 @@ The Bachelor of Science in Computer Science and the Bachelor of Science in Compu
 * [Master of Science in Computer Science]( https://cns.csusb.edu/cse/ms-computer-science )
 
 ## Department Information
-
 #### Faculty and Staff
 * [Full-Time Faculty](https://cns.csusb.edu/cse/faculty-staff)
 * [Emertius Faculty](https://cns.csusb.edu/cse/faculty-staff)

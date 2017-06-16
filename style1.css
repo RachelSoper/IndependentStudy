@@ -1,0 +1,73 @@
+body {
+    font-family: arial black, verdana;
+    font-size: 14px;
+    color: white;
+    background-color: darkred;
+    margin: 20px;
+    padding: 0;
+}
+img{
+	height: 45%;
+	width: 100%;
+}
+
+p {
+	color: pink;
+    line-height: 21px;
+}
+
+h1 {
+    color: white;
+    background-color: firebrick;
+    font-size: 2em;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 4px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 0.5em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: crimson;
+}
+
+h2 {
+    color: white;
+	text-align: center;
+    background-color: crimson;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 2px;
+    padding-left: 14px;
+}
+
+h3 {
+	color: pink;
+    font-size: 1.25em;
+}
+
+a {
+	color: pink;
+    text-decoration: none;
+}
+
+a:hover {
+	color: red;
+    text-decoration: underline;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+li {
+	color: white;
+    font-style: italic;
+}
+
+table {
+	width: 100%;
+    background-color: indianred;
+	text-align: center; 
+}

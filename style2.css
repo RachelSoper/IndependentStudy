@@ -1,0 +1,74 @@
+body {
+    font-family: garamond, palatino, verdana;
+    font-size: 14px;
+	letter-spacing: 0.1em;
+    color: white;
+    background-color: darkslateblue;
+    margin: 20px;
+    padding: 0;
+}
+img{
+	height: 45%;
+	width: 100%;
+}
+
+p {
+	color: white;
+    line-height: 21px;
+}
+
+h1 {
+    color: white;
+    background-color: rebeccapurple;
+    font-size: 2em;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 4px;
+    font-style: bold;
+    text-align: center;
+    letter-spacing: 0.5em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: thistle;
+}
+
+h2 {
+    color: rebeccapurple;
+	text-align: center;
+    background-color: thistle;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 2px;
+    padding-left: 14px;
+}
+
+h3 {
+	color: white;
+    font-size: 1.25em;
+}
+
+a {
+	color: white;
+    text-decoration: none;
+}
+
+a:hover {
+	color: plum;
+    text-decoration: underline;
+}
+
+strong {
+    font-style: bold;
+    text-transform: uppercase;
+}
+
+li {
+	color: white;
+    font-style: strong;
+}
+
+table {
+	width: 100%;
+    background-color: thistle;
+	text-align: center; 
+}
